@@ -1,6 +1,7 @@
 # flyrank-capstone
 Frontend AI Engineering Internship Capstone Project
-This repository contains my work for the FlyRank Frontend AI Engineering Internship.
+# FlyRank Capstone
+This repository contains my work for the FlyRank Frontend AI Engineering Internship. It will be used to complete weekly assignments, explore AI-assisted development workflows, and build modern frontend applications.
 
 ## Objective
 
